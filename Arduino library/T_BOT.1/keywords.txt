@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map For T_BOT
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+T_BOT	KEYWORD1	T_BOT
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+gotoxy	KEYWORD2
+upDown  KEYWORD2
+getX    KEYWORD2
+getY    KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+up   	LITERAL1
+down 	LITERAL1
